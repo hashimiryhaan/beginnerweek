@@ -1,4 +1,4 @@
-# beginnerweek
+# mlhbeginnerweek
 beginner week challenges
 1) hello world! challenge
 2) i wrote a sorting program in python
